@@ -12,9 +12,16 @@
 		
 	</body>
 	
-	<img>https://mainecampus.com/wp-content/uploads/2018/09/Football83018.jpg</img>
+	<img>"football.png"</img>
 	
 </body>
 
+<a href="Home.html">Home</a></p>
+
+<a href="Merchandise.html">Merchandise</a></p>
+
+<a href="Statistics.html">Statistics</a></p> 
+
+<a href="Players in the NFL.html">Players in the NFL</a></p>
 		
 </html> 	
